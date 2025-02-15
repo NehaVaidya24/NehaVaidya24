@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **exciting open source projects and innovative ideas**
 
-- 🔭 I'm in Linkedln [www.linkedin.com/in/neha-vaidya-849738349](www.linkedin.com/in/neha-vaidya-849738349)
+- 🔭 I'm in Linkedln [www.linkedin.com/in/neha-vaidya-294128351](www.linkedin.com/in/neha-vaidya-294128351)Let's Connect
 
 - 💬 Ask me about **Front end development , Frameworks and Object Oriented Programming**
 
 - 📫 How to reach me **nehavaidya2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rfXIaeVdaSPTiLuc5qbGexyyG6dYt3wI/view?usp=drivesdk](https://drive.google.com/file/d/1rfXIaeVdaSPTiLuc5qbGexyyG6dYt3wI/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cuunh59eoKnavaSqc-zj6AOdRHXmY4Ft/view?usp=drivesdk ](https://drive.google.com/file/d/1cuunh59eoKnavaSqc-zj6AOdRHXmY4Ft/view?usp=drivesdk )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
