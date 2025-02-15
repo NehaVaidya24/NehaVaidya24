@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/932559358/photo/silhouette-of-virtual-human-on-circuit-pattern-technology-3d-illustration.jpg?s=2048x2048&w=is&k=20&c=g9Rx10nb1ry5nLiQPzQylx4dKBCkkHGeYIfKck4ojWk=">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehavaidya24&label=Profile%20views&color=0e75b6&style=flat" alt="nehavaidya24" /> </p>
