@@ -1,4 +1,4 @@
-<img align="top" alt="coding" src=""C:\Users\neha vaidya\Downloads\background image.jpg"">
+<img align="top" alt="coding" src="C:\Users\neha vaidya\Downloads\background image.jpg">
 
 <h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
 <h3 align="center">A passionate Java developer and Web developer from India</h3>
