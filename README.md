@@ -1,4 +1,9 @@
-[![background-image.jpg](https://i.postimg.cc/qMWJT3pn/background-image.jpg)](https://postimg.cc/bsHc0dDN)
+<img 
+    src="https://i.postimg.cc/qMWJT3pn/background-image.jpg" 
+    alt="background-image" 
+    width="600" 
+    height="200" 
+/>
 
 <h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
 <h3 align="center">A passionate Java developer and Web developer from India</h3>
