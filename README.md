@@ -1,18 +1,20 @@
+<img align="top" alt="coding" src=""C:\Users\neha vaidya\Downloads\background image.jpg"">
+
 <h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Java developer and Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWwwZ3hka25lanN0ZGZyOHdncjFzZWIyZm9zZHRoMHNhamR2enJwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehavaidya24&label=Profile%20views&color=0e75b6&style=flat" alt="nehavaidya24" /> </p>
 
-- 🌱 I’m currently learning **Frameworks and Backend Web Development**
+- 🌱 I’m currently learning **Frameworks and Backend Development**
 
 - 👯 I’m looking to collaborate on **exciting open source projects and innovative ideas**
 
 - 🔭 I'm in Linkedln [www.linkedin.com/in/neha-vaidya-294128351](www.linkedin.com/in/neha-vaidya-294128351)Let's Connect
 
-- 💬 Ask me about **Front end development , Frameworks and Object Oriented Programming**
+- 💬 Ask me about **Java , Front end development , Frameworks and Object Oriented Programming**
 
 - 📫 How to reach me **nehavaidya2003@gmail.com**
 
