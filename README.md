@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/photo/2019/06/25/08/46/computer-4795762_1280.jpg">
+[![background-image.jpg](https://i.postimg.cc/qMWJT3pn/background-image.jpg)](https://postimg.cc/bsHc0dDN)
 
 <h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
 <h3 align="center">A passionate Java developer and Web developer from India</h3>
@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NehaVaidya24&show_icons=true&locale=en&layout=compact" alt="nehavaidya24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NehaVaidya24&show_icons=true&locale=en" alt="nehavaidya24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nehavaidya24&" alt="nehavaidya24" /></p>
