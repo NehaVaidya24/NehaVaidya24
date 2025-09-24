@@ -1,4 +1,4 @@
-<img align="top" alt="coding" src="https://drive.google.com/file/d/1er9u9eVCCZxlpABhwT4TvRDCr1QT79HU/view?usp=sharing">
+<img align="top" alt="coding" src="https://pixabay.com/photos/computer-laptop-tech-blue-computer-4795762/">
 
 <h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
 <h3 align="center">A passionate Java developer and Web developer from India</h3>
