@@ -1,8 +1,8 @@
 <img 
     src="https://i.postimg.cc/qMWJT3pn/background-image.jpg" 
     alt="background-image" 
-    width="600" 
-    height="200" 
+    width="800" 
+    height="400" 
 />
 
 <h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
