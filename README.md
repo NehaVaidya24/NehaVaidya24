@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nehavaidya2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cuunh59eoKnavaSqc-zj6AOdRHXmY4Ft/view?usp=drivesdk ](https://drive.google.com/file/d/1cuunh59eoKnavaSqc-zj6AOdRHXmY4Ft/view?usp=drivesdk )
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YePfgYmG1tH59TKL5cGjib0ZTCvtfgV6/view?usp=drivesdk ](https://drive.google.com/file/d/1YePfgYmG1tH59TKL5cGjib0ZTCvtfgV6/view?usp=drivesdk )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
