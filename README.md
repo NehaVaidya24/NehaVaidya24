@@ -8,7 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Frontend+Developer;Full+Stack+Developer;Open+to+Work;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
----
 
 # 🙋‍♀ About Me
 🎓 B.Tech Graduate in Information Technology
@@ -27,7 +26,6 @@
 
 🔗 Portfolio: https://neha-vaidya-portfolio.netlify.app
 
----
 
 # 🌐 Connect With Me
 
@@ -51,7 +49,6 @@
 
 </p>
 
----
 
 # 💻 Tech Stack
 
@@ -63,7 +60,6 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge)
 
----
 
 ## 🌐 Frontend
 
@@ -72,14 +68,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
 
----
 
 ## ⚙ Backend & Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![REST API](https://img.shields.io/badge/REST API-02569B?style=for-the-badge)
+![REST_API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
----
 
 ## 🛠 Tools
 
@@ -88,7 +82,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 
----
 
 # 📊 GitHub Stats
 
@@ -102,27 +95,6 @@
 
 </p>
 
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NehaVaidya24&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-🔹 FarmFresh Farming Website
-🔹 Phishing URL Detection App
-🔹 QR Code Generator
-🔹 Tic Tac Toe Game
-🔹 Password Generator
-
----
 
 # 🔥 Profile Views
 
