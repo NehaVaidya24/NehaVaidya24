@@ -9,7 +9,7 @@ Hi 👋, I'm Neha Vaidya
 </p>
 
 
-# 🙋‍♀ About Me
+## 🙋‍♀ About Me
 🎓 B.Tech Graduate in Information Technology
 
 💡 Passionate about building responsive web applications and Java-based backend systems
@@ -25,9 +25,10 @@ Hi 👋, I'm Neha Vaidya
 🎯 Resume : https://drive.google.com/file/d/1bNK5DD9cKBWzVdT7GO86UhYYOCTDm3-M/view?usp=drivesdk
 
 🔗 Portfolio: https://neha-vaidya-portfolio.netlify.app
+<br><br>
 
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -50,45 +51,49 @@ Hi 👋, I'm Neha Vaidya
 </p>
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
+<br><br>
 
 
-## 👩‍💻 Programming
+### 👩‍💻 Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge)
+<br>
 
 
-
-## 🌐 Frontend
+### 🌐 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
+<br>
 
 
 
-## ⚙ Backend & Database
+### ⚙ Backend & Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![REST_API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+<br>
 
 
 
-## 🛠 Tools
+###  💻 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+<br><br>
 
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -99,10 +104,10 @@ Hi 👋, I'm Neha Vaidya
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaVaidya24&layout=compact&theme=tokyonight"/>
 
 </p>
+<br><br>
 
 
-
-# 💬 Quote
+## 💬 Quote
 
 > “First, solve the problem. Then, write the code.” – Neha Vaidya
 
