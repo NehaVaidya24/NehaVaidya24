@@ -52,6 +52,7 @@ Hi 👋, I'm Neha Vaidya
 
 # 💻 Tech Stack
 
+
 ## 👩‍💻 Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
@@ -59,6 +60,7 @@ Hi 👋, I'm Neha Vaidya
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge)
+
 
 
 ## 🌐 Frontend
@@ -69,10 +71,12 @@ Hi 👋, I'm Neha Vaidya
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
 
 
+
 ## ⚙ Backend & Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![REST_API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
 
 
 ## 🛠 Tools
@@ -81,6 +85,7 @@ Hi 👋, I'm Neha Vaidya
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+
 
 
 # 📊 GitHub Stats
@@ -96,9 +101,11 @@ Hi 👋, I'm Neha Vaidya
 </p>
 
 
+
 # 💬 Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “First, solve the problem. Then, write the code.” – Neha Vaidya
+
 
 
 # ⭐ Thank You for Visiting
