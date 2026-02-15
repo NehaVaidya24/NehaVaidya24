@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
+<h1 align="center">
+Hi 👋, I'm Neha Vaidya
+<img src="https://komarev.com/ghpvc/?username=NehaVaidya24&style=for-the-badge" align="right"/>
+</h1>
 
-<h3 align="center">
-🚀 Web Developer | ☕ Java Developer | 🌱 Aspiring Full Stack Developer
-</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Frontend+Developer;Full+Stack+Developer;Open+to+Work;Always+Learning+New+Things&center=true&width=500&height=45">
@@ -96,21 +96,10 @@
 </p>
 
 
-# 🔥 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NehaVaidya24&style=for-the-badge">
-
-</p>
-
----
-
 # 💬 Quote
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
----
 
 # ⭐ Thank You for Visiting
 
