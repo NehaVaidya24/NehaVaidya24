@@ -1,61 +1,149 @@
 <h1 align="center">Hi 👋, I'm Neha Vaidya</h1>
-<h3 align="center">Web Developer | Java Developer | Aspiring Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehavaidya24&label=Profile%20views&color=0e75b6&style=flat" alt="nehavaidya24" /> </p>
+<h3 align="center">
+🚀 Web Developer | ☕ Java Developer | 🌱 Aspiring Full Stack Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehavaidya24" alt="nehavaidya24" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://neha-vaidya-portfolio.netlify.app/](https://neha-vaidya-portfolio.netlify.app/)
-
-- 📫 How to reach me **nehavaidya2003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bNK5DD9cKBWzVdT7GO86UhYYOCTDm3-M/view?usp=drivesdk](https://drive.google.com/file/d/1bNK5DD9cKBWzVdT7GO86UhYYOCTDm3-M/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neha-vaidya-294128351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neha-vaidya-294128351" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nehavaidya_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nehavaidya_03/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Frontend+Developer;Full+Stack+Developer;Open+to+Work;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
-
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
-
-# 💻 Tech Stack
-
-## 👩‍💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
-## 🌐 Frontend Development
+# 🙋‍♀ About Me
+🎓 B.Tech Graduate in Information Technology
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+💡 Passionate about building responsive web applications and Java-based backend systems
+
+💻 Skilled in Java, JDBC, Servlets, REST APIs, and Web Development
+
+🌐 Experienced in building responsive , user-friendly websites and java applications
+
+🛠️ Completed Web Developer Internship at Hunar Intern
+
+🌐 Email : nehavaidya2003@gmail.com
+
+🎯 Resume : https://drive.google.com/file/d/1bNK5DD9cKBWzVdT7GO86UhYYOCTDm3-M/view?usp=drivesdk
+
+🔗 Portfolio: https://neha-vaidya-portfolio.netlify.app
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/neha-vaidya-294128351">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://leetcode.com/u/nehavaidya_03/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://neha-vaidya-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox">
+</a>
+
+<a href="https://drive.google.com/file/d/1bNK5DD9cKBWzVdT7GO86UhYYOCTDm3-M/view">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👩‍💻 Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge)
+
+---
+
+## 🌐 Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
 
 ---
 
 ## ⚙ Backend & Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![REST API](https://img.shields.io/badge/REST API-02569B?style=for-the-badge)
 
 ---
 
-## 🛠 Tools & Platforms
+## 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehavaidya24&show_icons=true&locale=en&layout=compact" alt="nehavaidya24" /></p>
+# 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehavaidya24&show_icons=true&locale=en" alt="nehavaidya24" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehavaidya24&" alt="nehavaidya24" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=NehaVaidya24&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaVaidya24&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaVaidya24&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NehaVaidya24&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🔹 FarmFresh Farming Website
+🔹 Phishing URL Detection App
+🔹 QR Code Generator
+🔹 Tic Tac Toe Game
+🔹 Password Generator
+
+---
+
+# 🔥 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NehaVaidya24&style=for-the-badge">
+
+</p>
+
+---
+
+# 💬 Quote
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+# ⭐ Thank You for Visiting
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</p>
